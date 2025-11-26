@@ -22,7 +22,7 @@ Se cargan en un triplestore GraphDB desde Python.
 
 Se ejecutan consultas SPARQL para analizar tendencias, máximos, mínimos y rangos temporales.
 
-🔧 Tecnologías Utilizadas
+Tecnologías Utilizadas
 Lenguaje
 
 Python 3.10+
